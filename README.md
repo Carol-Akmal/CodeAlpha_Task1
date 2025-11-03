@@ -1,44 +1,52 @@
 🎵 Music Player
 
-🔹 Created during the CodeAlpha Internship
+A sleek and responsive Music Player web application created during the CodeAlpha Internship, allowing users to play, pause, skip, and control the volume of songs with a modern interface.
 
-An interactive Music Player built using HTML, CSS, and JavaScript, allowing users to play, pause, and switch between songs with a clean and modern interface.
 🧠 Overview
 
-This project was created to strengthen my understanding of DOM manipulation, event handling, and audio APIs in JavaScript.
-It provides smooth transitions and responsive controls for an enjoyable listening experience.
+This project was built to demonstrate front-end development and JavaScript functionality through an interactive music player.
+Users can easily switch between songs, control playback, adjust the volume, and track the progress bar dynamically.
+
 ✨ Features
 
-Play, pause, next, and previous track controls
+Play, pause, previous, and next song controls
 
-Real-time progress bar and duration display
+Real-time progress bar and seek functionality
 
-Responsive design for all devices
+Volume control slider
 
-Custom UI with album art and song titles
+Automatically updates song title and cover image
 
-Animated play button for better UX
+Responsive and modern UI design
+
 🛠 Technologies Used
 
-HTML5 – Structure and audio element
+HTML5
 
-CSS3 – Styling and responsiveness
+CSS3
 
-JavaScript (ES6) – Logic and audio control
+JavaScript
+
+Font Awesome (for icons)
+
 💻 How to Use
 
 Clone or download this repository.
 
 Open the project folder.
 
-Run the index.html file in your browser.
+Place your songs inside the music folder and covers in the images folder.
 
-Click play and enjoy the music! 🎧
+Open the index.html file in your browser.
+
+Use the play, next, and previous buttons to control playback.
+
 📬 Contact
 
-If you’d like to connect or see more projects:
+If you’d like to connect, feel free to reach out:
 
 💼 LinkedIn – Carol Akmal
 
 ✉️ Email: carolakmal4@gmail.com
+
 👩‍💻 Developed by Carol Akmal
